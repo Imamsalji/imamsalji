@@ -39,27 +39,6 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=imamsalji&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamsalji&layout=compact&langs_count=7&theme=github_dark"/>
-
-</div>
-
----
-
-## 🔥 Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=imamsalji&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 📬 Hubungi Saya
 
 <div align="center">
