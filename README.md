@@ -39,7 +39,7 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
 
 ---
 
-## 📬 Hubungi Saya
+## 📬 Contact me
 
 <div align="center">
 
