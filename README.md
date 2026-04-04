@@ -43,8 +43,8 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=https://github.com/Imamsalji&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=github_dark"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=imamsalji&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamsalji&layout=compact&langs_count=7&theme=github_dark"/>
 
 </div>
 
@@ -54,7 +54,7 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=imamsalji&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
