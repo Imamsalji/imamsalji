@@ -45,7 +45,7 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-imam-salji/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imamsalji7@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)]([https://YOUR_PORTFOLIO](https://mohamad-imam-salji.netlify.app/porto-develop.html))
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamad-imam-salji.netlify.app/porto-develop.html)
 
 </div>
 
@@ -55,6 +55,6 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
 
 *"Clean code. Scalable systems. End-to-end thinking."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=imamsalji&color=58a6ff&style=flat-square&label=Profile+Views)
 
 </div>
