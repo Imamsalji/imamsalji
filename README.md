@@ -49,8 +49,6 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
 
 </div>
 
----
-
 <div align="center">
 
 *"Clean code. Scalable systems. End-to-end thinking."*
