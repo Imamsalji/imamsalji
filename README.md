@@ -49,6 +49,15 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
 
 </div>
 
+---
+
+## 🐍 Snake Animation (🔥 Keren Banget)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/snake.svg" />
+</p>
+
+---
+
 <div align="center">
 
 *"Clean code. Scalable systems. End-to-end thinking."*
