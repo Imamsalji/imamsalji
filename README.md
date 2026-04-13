@@ -51,7 +51,9 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
 
 ---
 
-<img src="https://mohamad-imam-salji.netlify.app/assets/img/download.gif" width="300" alt="My Profile GIF">
+<p align="center">
+  <img src="https://mohamad-imam-salji.netlify.app/assets/img/download.gif" >
+</p>
 
 ---
 
