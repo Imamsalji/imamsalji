@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer with over 3 years of backend experience. I'm experienced in building robust REST APIs, relational databases, and developing efficient and scalable systems using Laravel and CodeIgniter.
+I'm a full-stack developer with over 4 years of backend experience. I'm experienced in building robust REST APIs, relational databases, and developing efficient and scalable systems using Laravel and CodeIgniter.
 
 Besides backend, I have solid frontend experience using React, JavaScript, jQuery, and Tailwind CSS—enabling me to collaborate effectively across the stack and understand the end-to-end requirements of a web application.
 
