@@ -4,7 +4,7 @@
 
 **Fullstack Developer** · Laravel & CodeIgniter Specialist · REST API Architect
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+3%2B+Years+Experience;Laravel+%26+CodeIgniter+Specialist;REST+API+%26+Scalable+Web+Apps;React+%2B+Tailwind+CSS+Frontend)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+%7C+4%2B+Years+Experience;Laravel+%26+CodeIgniter+Specialist;REST+API+%26+Scalable+Web+Apps;React+%2B+Tailwind+CSS+Frontend)](https://git.io/typing-svg)
 
 </div>
 
