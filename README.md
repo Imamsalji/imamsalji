@@ -59,6 +59,4 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
 
 *"Clean code. Scalable systems. End-to-end thinking."*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=imamsalji&color=58a6ff&style=flat-square&label=Profile+Views)
-
 </div>
