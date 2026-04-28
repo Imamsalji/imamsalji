@@ -39,8 +39,6 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
 
 ---
 
-## 📬 Contact me
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamad-imam-salji/)
