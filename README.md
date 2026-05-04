@@ -1,6 +1,6 @@
 <div align="center">
 
-### `Mohamad Imam Salji`
+## `Mohamad Imam Salji`
 
 **Fullstack Developer** · Laravel & CodeIgniter Specialist · REST API Architect
 
