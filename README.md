@@ -46,6 +46,12 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mohamad-imam-salji.netlify.app/porto-develop.html)
 
 </div>
+
+<p align="center">
+  <img src="https://mohamad-imam-salji.netlify.app/assets/img/download.gif" >
+</p>
+
+<div align="center">
   
 *"Clean code. Scalable systems. End-to-end thinking."*
 
