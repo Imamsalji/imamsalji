@@ -51,8 +51,4 @@ Besides backend, I have solid frontend experience using React, JavaScript, jQuer
   <img src="https://mohamad-imam-salji.netlify.app/assets/img/download.gif" >
 </p>
 
-<div align="center">
-  
-*"Clean code. Scalable systems. End-to-end thinking."*
 
-</div>
